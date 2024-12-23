@@ -1,0 +1,1 @@
+This is my advanced Java project. This program creates a magic square. The user enters an odd number, which is then squared. The numbers from 1 to the square of that number are then placed in a certain manner to create the magic square.
